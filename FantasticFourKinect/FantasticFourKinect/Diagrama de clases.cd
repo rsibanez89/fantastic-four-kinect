@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="FantasticFourKinect.AboutF4K" Collapsed="true">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIACAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\WFAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Principal" Collapsed="true">
+    <Position X="41.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAEEAAAgQAAwAAAAAAAAAAAAAAFAgAACAFAAAAIAQ=</HashCode>
+      <FileName>Principal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Program" Collapsed="true">
+    <Position X="36" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.AbstractForm" Collapsed="true">
+    <Position X="6.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAgAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\AbstractForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.EditRecordedForm" Collapsed="true">
+    <Position X="7.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>RgYIGkAGIQIEwiFAEAACAAAAANUAAAAEAAEBCAlQAEQ=</HashCode>
+      <FileName>Forms\EditRecordedForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.WFEditGestures" Collapsed="true">
+    <Position X="37.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>93AAAMFAASAiABkQEICgQABSIsw7AAqA0nEPAAkmYAE=</HashCode>
+      <FileName>Forms\WFEditGestures.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.MenuForm" Collapsed="true">
+    <Position X="1" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\MenuForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.RecordForm" Collapsed="true">
+    <Position X="3.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYEEAAEIQAAAiBAAAACACAACAAAAAAAAAABAAAAAAQ=</HashCode>
+      <FileName>Forms\RecordForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.TeacherForm" Collapsed="true">
+    <Position X="5.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAEAAKIgBIAiBEAAADAAIAABAAAAAAIBMBAAEAACQ=</HashCode>
+      <FileName>Forms\TeacherForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FantasticFourKinect.Forms.FreeDetectionForm" Collapsed="true">
+    <Position X="10" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQAEAACIABIAiFEAAALAAIAABAAAAAAIAEBAAEAAAQ=</HashCode>
+      <FileName>Forms\FreeDetectionForm.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="FantasticFourKinect.Gesture.AbstractGesture" Collapsed="true">
+    <Position X="0.5" Y="10.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIAAQEAABAAACgAAAAAAAAAAAkBAAEAAAAAAEBABA=</HashCode>
+      <FileName>Gesture\AbstractGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Gesture.Pair" Collapsed="true">
+    <Position X="39.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAACAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Gesture\AbstractGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Gesture.SimpleGesture" Collapsed="true">
+    <Position X="0.5" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Gesture\SimpleGesture.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Middle.AbstractMiddle" Collapsed="true">
+    <Position X="4" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QABAAAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAIABEAAQ=</HashCode>
+      <FileName>Middle\AbstractMiddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Middle.SkeletonReaderMiddle" Collapsed="true">
+    <Position X="3" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEBADAAAEAAAAAAAAQAAQAAACAAAAAMABEEAA=</HashCode>
+      <FileName>Middle\SkeletonReaderMiddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Middle.KinectMiddleMS" Collapsed="true">
+    <Position X="5.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAACAAAAAAAAAAAAAAAJCAQAAAAEgAAQQAAABEAAA=</HashCode>
+      <FileName>Middle\KinectMiddleMS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Middle.SkeletonSaveMiddle" Collapsed="true">
+    <Position X="0.75" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAEAAAEIAAAAAAQAIAAAAAAAAAAAMABEEAA=</HashCode>
+      <FileName>Middle\SkeletonSaveMiddle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Persistency.DB4ObjectState" Collapsed="true">
+    <Position X="36" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAEAAAA=</HashCode>
+      <FileName>Persistency\DB4ObjectState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Render.Avatar" Collapsed="true">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAIAAAAAAAIAQAAAAAAAAAIACAAAAABGAAA=</HashCode>
+      <FileName>Render\Avatar.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Render.Camera" Collapsed="true">
+    <Position X="39.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAADAAAAAAAQQAAAAAAAABBAAAAQAAQAAAAAAAAA=</HashCode>
+      <FileName>Render\Camara.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Render.Object3D" Collapsed="true">
+    <Position X="37.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIEAAAgAAIAAAAAAIAAAAACAAEABAAAAAAABAIgAA=</HashCode>
+      <FileName>Render\Object3D.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Skeleton.HumanBodyPart" Collapsed="true">
+    <Position X="41.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAEAAAAAAAEAAAAYAE=</HashCode>
+      <FileName>Skeleton\HumanBodyPart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.Skeleton.HumanSkeleton" Collapsed="true">
+    <Position X="36" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AHAAAAAACAAAAAAAAAAAAAAAAAAAQAJAAAAAAHBEAIA=</HashCode>
+      <FileName>Skeleton\HumanSkeleton.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.AbstractState" Collapsed="true">
+    <Position X="17.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>State\AbstractState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.AndState" Collapsed="true">
+    <Position X="13.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>State\AndState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.AngleState" Collapsed="true">
+    <Position X="17.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAQEAAAAAAAAIQACAAAAAAQABAAAABIQAAAEAAA=</HashCode>
+      <FileName>State\AngleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.Vector3D" Collapsed="true">
+    <Position X="41.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAYAE=</HashCode>
+      <FileName>State\AngleState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.CenterStateX" Collapsed="true">
+    <Position X="26.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>State\CenterStateX.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.CenterStateY" Collapsed="true">
+    <Position X="31.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\CenterStateY.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.CenterStateZ" Collapsed="true">
+    <Position X="2" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\CenterStateZ.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.DistanceState" Collapsed="true">
+    <Position X="6.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAQAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\DistanceState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.InvalidState" Collapsed="true">
+    <Position X="15.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>State\InvalidState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.LeftState" Collapsed="true">
+    <Position X="20" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\LeftState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.OrState" Collapsed="true">
+    <Position X="22.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>State\OrState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.UnderState" Collapsed="true">
+    <Position X="29" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\OverState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.PositionState" Collapsed="true">
+    <Position X="33.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\PositionState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.RightState" Collapsed="true">
+    <Position X="4.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\RightState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="FantasticFourKinect.State.OverState" Collapsed="true">
+    <Position X="24.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQEAAAAAAAAAAACAAAAAAAAAAAAEAAAAAAAAAA=</HashCode>
+      <FileName>State\UnderState.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
